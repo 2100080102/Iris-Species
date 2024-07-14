@@ -31,11 +31,11 @@ The ultimate goal of this project is to build a robust classification model that
     **Matplotlib and Seaborn:** For data visualization
 
     
-**Steps**
-  **Data Loading and Exploration:** Load the dataset and perform exploratory data analysis (EDA) to understand the data.
-  **Data Preprocessing:** Encode the target variable and check for missing values.
-  **Model Building:** Train a Random Forest Classifier and evaluate its performance.
-  **Model Evaluation:** Use metrics such as accuracy, classification report, and confusion matrix to evaluate model performance.
+**Steps** to implement this firstly start with 
+  **Data Loading and Exploration:** Load the dataset and perform exploratory data analysis (EDA) to understand the data. Next, 
+  **Data Preprocessing:** Encode the target variable and check for missing values. Thirdly, 
+  **Model Building:** Train a Random Forest Classifier and evaluate its performance and then 
+  **Model Evaluation:** Use metrics such as accuracy, classification report, and confusion matrix to evaluate model performance. Finally
   **Feature Importance:** Identify the most important features for predicting the iris species.
 
   
