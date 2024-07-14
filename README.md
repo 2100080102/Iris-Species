@@ -40,11 +40,9 @@ The ultimate goal of this project is to build a robust classification model that
 
   
 **Results**
-    The Random Forest Classifier achieved an accuracy of XX% on the test set.
+    The Random Forest Classifier achieved an accuracy of 1.0 on the test set.
     The classification report provides precision, recall, and F1-score for each class.
     The confusion matrix helps visualize the performance of the classification model.
-    Feature Importances
-    The Random Forest model was used to identify the most important features for predicting iris species. The feature importances are visualized in a bar plot.
 
 **Conclusion**
   This project successfully demonstrates the process of building and evaluating a machine learning model for classification tasks using the Iris flower dataset. The achieved accuracy indicates that the model can classify the species of Iris flowers with a high degree of confidence.
